@@ -20,3 +20,6 @@ Mid-term Chinese, English, Math score.
 variables, control variables and dependent variables.
 - Group student samples based on BMI to explore test performance
 #### Conclusion
+For those with low BMI, the higher their BMI, they better their scores.  
+For those with low BMI or normal BMI, the nearsighted students had better scores.
+For those with high BMI or overweight, the higher their BMI, the worse their scores.
